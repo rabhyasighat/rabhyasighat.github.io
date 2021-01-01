@@ -22,34 +22,38 @@ nav {
     /* text-align: center; */
     float: right;
     background-color: rgb(34, 14, 53);
-    
+    margin-top: 1%;
     color: bisque;
     width: 100%;
-    padding: 10px 10px 10px 5px;
+    padding: 15px 10px 15px 5px;
     text-align: right;
     align-items: center;
 
   }
   a {
     font-weight: bold;
-    font-size: 1.2rem;
+   
       text-align: right;
       border-bottom: 0px solid transparent;
       color: rgb(188, 166, 202);
       
       text-decoration: none;
-      margin-right: 11px;
+      margin-right: 14px;
+      font-size: 15px;
   }
   a:hover,
   a:focus {
     color: rgb(91, 156, 22);
   }
+  .container{
+    margin-right: 10px;
+  }
 
   .home{
-    color: rgba(108, 180, 31, 0.342);
+    color: rgba(226, 200, 255, 0.342);
   }
   .home:hover{
-    color: rgba(108, 180, 31, 0.342);
+    color: rgba(226, 200, 255, 0.342);
   }
 
   
