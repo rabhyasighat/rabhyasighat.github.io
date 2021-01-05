@@ -80,8 +80,9 @@ nav {
     height:47vh;
   }
   .r3{
-    height:93vh;
+    height:90vh;
   }
+<<<<<<< Updated upstream
   .x1{
     height: 40vh;
     margin:2% 2% 2% 2%;
@@ -140,3 +141,29 @@ nav {
     transform: translate(0, 0.3rem);
     
   }
+=======
+  /* .x1{
+    height: 30vh;
+    margin:2% 2% 2% 2%;
+
+  } */
+.outer{
+  display: block;
+  text-align: center;
+  margin-right: 20px;
+  background-color: darkgoldenrod;
+  width: 47vw;
+  float: right;
+  
+  
+
+}
+
+
+img{
+  margin: 10px 10px 10px 10px ;
+  border: solid black 2px;
+  display: block;
+}
+
+>>>>>>> Stashed changes
