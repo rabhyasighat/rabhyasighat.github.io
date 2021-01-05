@@ -56,3 +56,32 @@ nav {
   .home:hover{
     color: rgba(226, 200, 255, 0.342);
   }
+  /* .outer{
+    /* display: block; */
+    /* text-align: center; */
+    /* margin-right: 20px; */
+    /* background-color: darkgoldenrod; */
+    /* width: 50vw; */
+    /* float: right; */
+  /* }
+  img{
+    margin: 10px 10px 10px 10px ;
+    border: solid black 2px; */
+    /* display: flex; */
+    /* float: left; */
+  /* }
+  .inner{
+    display: flex;
+  }
+  .inner1{
+    display: flex;
+  }
+  .card1{ */
+    /* display: flex; */
+    float: left;
+    /* width: 90%; */
+    /* flex: 50%; */
+    /* flex-flow: column; */
+    /* justify-content: center; */
+    /* flex-f; */
+  /* } */ */
