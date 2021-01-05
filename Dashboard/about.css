@@ -55,3 +55,37 @@ nav {
   .container{
     margin-right: 10px;
   }
+
+
+table,
+th,
+td {
+    font-family: 'Arial', cursive;
+    align-items: center;
+    text-align: center;
+    /* flex-flow: column; */
+    /* justify-content: center; */
+    font-size: 1.3rem;
+    border-radius: 1px;
+    width: 50%;
+    background-color: rgba(47, 40, 70, 0.418);
+}
+
+th,
+td {
+    padding: 15px;
+    width: 30%;
+    color: rgb(235, 227, 253);
+}
+table{
+  /* padding: 10%; */
+  /* margin-top: 20%; */
+  height: 70vh;
+}
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+    background-color: black;
+    
+}
