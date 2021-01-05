@@ -24,7 +24,8 @@ nav {
     /* text-align: center; */
     /* float: right; */
     background-color: rgb(34, 14, 53);
-    /* margin-top: 1%; */
+
+    margin-top: 1%;
     color: bisque;
     width: 100%;
     padding: 15px 10px 15px 5px;
@@ -86,7 +87,7 @@ nav {
     height:100%;
   }
   .r{
-    height:50vh;
+    height:47vh;
   }
 
   .outer{
