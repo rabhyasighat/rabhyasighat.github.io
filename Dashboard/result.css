@@ -56,36 +56,48 @@ nav {
   .home:hover{
     color: rgba(226, 200, 255, 0.342);
   }
-<<<<<<< HEAD
-  /* .outer{
-    /* display: block; */
-    /* text-align: center; */
-    /* margin-right: 20px; */
-    /* background-color: darkgoldenrod; */
-    /* width: 50vw; */
-    /* float: right; */
-  /* }
+  .outer{
+    display:block; 
+    text-align: center; 
+    margin-right: 20px;
+    
+     width: 100vw;
+     
+   }
   img{
+    align-items: center;
     margin: 10px 10px 10px 10px ;
-    border: solid black 2px; */
-    /* display: flex; */
-    /* float: left; */
-  /* }
-  .inner{
+    /* border: solid white 2px;  */
     display: flex;
-  }
-  .inner1{
-    display: flex;
-  }
-  .card1{ */
-    /* display: flex; */
-    float: left;
-    /* width: 90%; */
-    /* flex: 50%; */
-    /* flex-flow: column; */
-    /* justify-content: center; */
-    /* flex-f; */
-  /* } */ */
-=======
+    width: 45vw;
+    margin-left:15%;
+    border: solid white 1px;
+    
+     
+     
+    }  
+    h4{
+      color: wheat;
+      
+    }
   
->>>>>>> 75e643b75cc6468567af572c0efc9fbedb0dcd66
+    /* .inner{
+      margin-left: 25% ;
+      margin-top: 10%;
+  } */
+  /* .inner1{
+    display: flex;
+  } */ 
+   .card1{
+    display: flex;
+    float: left;
+    width: 45%; 
+    flex: 100%;
+    flex-flow: column; 
+    justify-content: center; 
+    
+    
+  }
+body{
+  overflow: visible;
+}
