@@ -1,2 +1,2 @@
-# EY-Hackathon
+# EY Techathon 2021
  
