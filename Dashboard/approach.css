@@ -7,16 +7,18 @@ html{
 body{
     background-color: black;
     margin: 0;
-    overflow: hidden;
+    overflow: scroll;
+    overflow-x: hidden ;
 }
-.row1{
-    /* height: 10%; */
+/* .row1{
+    height: 10%;
     width: 100%;
 }
 .row2{
     height: 90%;
     width: 100%;
-}
+    flex-direction: row;
+} */
 nav {
     font-family: 'Montserrat', sans-serif;
     /* text-align: center; */
@@ -57,3 +59,33 @@ nav {
   .home:hover{
     color: rgba(226, 200, 255, 0.342);
   }
+  .headings{
+    text-align: center;
+  }
+  .col{
+    width:50%;
+    flex-flow: column;
+    display: flex;
+    float: left;
+  }
+  .row{
+  content: "";
+  display: table;
+  clear: both;
+  }
+  .r1{
+    height:47vh;
+  }
+  .r2{
+    height:47vh;
+  }
+  .r3{
+    height:93vh;
+  }
+  .x1{
+    height: 30vh;
+    margin:2% 2% 2% 2%;
+
+  }
+  
+
